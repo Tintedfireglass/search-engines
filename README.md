@@ -1,7 +1,9 @@
 # search-engines
 A list of all search engines I encounter
 
-# Search engines having independent results
+# Just an uncurated list of all search engines. 
+
+All these search engines will be reviewed and tested in the future :)
 
 1. Google       https://www.google.com/
 2. Bing         https://www.bing.com/
@@ -10,6 +12,17 @@ A list of all search engines I encounter
 5. Brave        https://search.brave.com/
 6. Wiby         https://wiby.me/  https://wiby.org/
 7. Ask          https://www.ask.com/
-8. WebCrawler  https://www.webcrawler.com/
+8. WebCrawler   https://www.webcrawler.com/
+9. DuckDuckGo   https://duckduckgo.com/
+10. Yahoo       https://search.yahoo.com/
+11. AOL         https://search.aol.com/
+12. Ecosia      https://www.ecosia.org/
+13. Startpage   https://www.startpage.com/
+14. Searx       (selfhosted)
+15. Whoogle     (selfhosted)
+16. Qwant       https://www.qwant.com/
+17. NeonLinker  https://neonlinker.com/
+18. InfoTiger   https://infotiger.com/
+19. Gigablast   https://www.gigablast.com/
 
 

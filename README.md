@@ -24,5 +24,11 @@ All these search engines will be reviewed and tested in the future :)
 17. NeonLinker  https://neonlinker.com/
 18. InfoTiger   https://infotiger.com/
 19. Gigablast   https://www.gigablast.com/
+20. Mojeek      https://www.mojeek.com/
+21. Peekier     https://peekier.com/
+22. Dropicon    https://dropicon.com/
+23. Dsearch     https://www.dsearch.com/
+24. Yessle      https://www.yessle.com/
+25. 
 
 

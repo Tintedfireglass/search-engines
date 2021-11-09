@@ -29,6 +29,7 @@ All these search engines will be reviewed and tested in the future :)
 22. Dropicon    https://dropicon.com/
 23. Dsearch     https://www.dsearch.com/
 24. Yessle      https://www.yessle.com/
-25. 
+25. Qmamu       https://qmamu.com/
+26. 
 
 

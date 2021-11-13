@@ -30,13 +30,27 @@ All these search engines will be reviewed and tested in the future :)
 23. SearchMySite    https://searchmysite.net/
 24. MillionShort    https://millionshort.com/ (metasearch but better)
 25. ASR             https://www.activesearchresults.com/
-26. 
-27. 
-28.
-29.
-30.
-31.
-32.
-33. 
+26. Marginalia      https://search.marginalia.nu/
+27. Nona            https://www.nona.de/
+28. Yacy            https://yacy.net/
+29. FilePursuit     https://filepursuit.com/
+30. Metager         https://metager.org/
+31. Teclis          http://teclis.com/
+32. Pirate Bay      http://thepiratebay.org/
+33. Neeva           https://neeva.com/
+34. ClassCentral    https://www.classcentral.com/
+35. RSSsearchhub    https://www.rsssearchhub.com/
+36. Tineye          https://tineye.com/
+37. Publicwww       https://publicwww.com/
+38. 
+39. 
+40. 
+41. 
+42.
+43.
+44.
+45.
+46.
+47. 
 
 

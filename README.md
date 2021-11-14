@@ -42,15 +42,20 @@ All these search engines will be reviewed and tested in the future :)
 35. RSSsearchhub    https://www.rsssearchhub.com/
 36. Tineye          https://tineye.com/
 37. Publicwww       https://publicwww.com/
-38. 
-39. 
-40. 
-41. 
-42.
-43.
-44.
-45.
-46.
-47. 
+38. Petal           https://petalsearch.com/
+39. Gowiki          http://www.gowiki.co/
+40. Seekport        http://www.seekport.com/
+41. Anoox           https://www.anoox.com/
+42. Yioop           https://www.yioop.com/
+43. Ninfex          https://ninfex.com/
+44. Swisscows       https://swisscows.com/
+45. 
+46. 
+47.
+48.
+49.
+50.
+51.
+52. 
 
 

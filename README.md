@@ -51,7 +51,7 @@ All these search engines will be reviewed and tested in the future :)
 44. Swisscows       https://swisscows.com/
 45. Kagi            https://kagi.com/
 46. Bonzamate       https://bonzamate.com.au/
-47. 
+47. Lieu            https://lieu.cblgh.org/
 48. 
 49.
 50.

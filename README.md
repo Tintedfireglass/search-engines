@@ -52,12 +52,14 @@ All these search engines will be reviewed and tested in the future :)
 45. Kagi            https://kagi.com/
 46. Bonzamate       https://bonzamate.com.au/
 47. Lieu            https://lieu.cblgh.org/
-48. 
-49.
-50.
+48. Presearch       https://presearch.org/
+49. Excite Search   https://search.excite.com/
+50. 
 51.
 52.
 53.
-54. 
+54.
+55.
+56. 
 
 

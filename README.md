@@ -28,7 +28,7 @@ All these search engines will be reviewed and tested in the future :)
 21. Kozmonavt       https://kozmonavt.ml/
 22. Burf            https://burf.co/
 23. SearchMySite    https://searchmysite.net/
-24. MillionShort    https://millionshort.com/ (metasearch but better)
+24. Gibiru          https://www.virtualmirage.org/gibiru/
 25. ASR             https://www.activesearchresults.com/
 26. Marginalia      https://search.marginalia.nu/
 27. Nona            https://www.nona.de/
@@ -49,13 +49,15 @@ All these search engines will be reviewed and tested in the future :)
 42. Yioop           https://www.yioop.com/
 43. Ninfex          https://ninfex.com/
 44. Swisscows       https://swisscows.com/
-45. 
-46. 
-47.
-48.
+45. Kagi            https://kagi.com/
+46. Bonzamate       https://bonzamate.com.au/
+47. 
+48. 
 49.
 50.
 51.
-52. 
+52.
+53.
+54. 
 
 

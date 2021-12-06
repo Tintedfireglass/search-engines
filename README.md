@@ -54,12 +54,14 @@ All these search engines will be reviewed and tested in the future :)
 47. Lieu            https://lieu.cblgh.org/
 48. Presearch       https://presearch.org/
 49. Excite Search   https://search.excite.com/
-50. 
-51.
-52.
+50. StartingPoint   http://www.stpt.com/
+51. AliWeb          http://www.aliweb.com/
+52. 
 53.
 54.
 55.
-56. 
+56.
+57.
+58. 
 
 

@@ -56,7 +56,7 @@ All these search engines will be reviewed and tested in the future :)
 49. Excite Search   https://search.excite.com/
 50. StartingPoint   http://www.stpt.com/
 51. AliWeb          http://www.aliweb.com/
-52. 
+52. 4Search         https://www.4search.com/
 53.
 54.
 55.

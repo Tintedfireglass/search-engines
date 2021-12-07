@@ -1,7 +1,7 @@
 # search-engines
 A list of all search engines I encounter
 
-# Just an uncurated list of all search engines. 
+# Just an uncurated list of search engines(Still looking for more before reviewing them)
 
 All these search engines will be reviewed and tested in the future :)
 

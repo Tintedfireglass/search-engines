@@ -57,11 +57,12 @@ All these search engines will be reviewed and tested in the future :)
 50. StartingPoint   http://www.stpt.com/
 51. AliWeb          http://www.aliweb.com/
 52. 4Search         https://www.4search.com/
-53.
+53. Plumb           https://plumb.one/
 54.
 55.
 56.
 57.
-58. 
+58.
+59. 
 
 

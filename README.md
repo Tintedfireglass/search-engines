@@ -59,11 +59,17 @@ All these search engines will be reviewed and tested in the future :)
 52. 4Search         https://www.4search.com/
 53. Plumb           https://plumb.one/
 54. Mwmbl           https://mwmbl.org/
-55.
-56.
-57.
-58.
-59.
-60. 
+55. GarlicToum      https://garlictoum.com/
+56. Yup!            https://yup.is/
+57. Digraph         https://digraph.app/
+58. Searchcode      https://searchcode.com/
+59. LogoSearch      https://logosear.ch/
+60. Shodan          https://www.shodan.io/
+61. Oscobo          https://oscobo.com/
+62. Infospace       https://infospace.com/
+63.
+64.
+65.
+66. 
 
 

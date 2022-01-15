@@ -67,8 +67,8 @@ All these search engines will be reviewed and tested in the future :)
 60. Shodan          https://www.shodan.io/
 61. Oscobo          https://oscobo.com/
 62. Infospace       https://infospace.com/
-63.
-64.
+63. Hello           https://beta.sayhello.so/
+64. Neera           https://neera.ai/
 65.
 66. 
 

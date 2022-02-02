@@ -70,6 +70,9 @@ All these search engines will be reviewed and tested in the future :)
 63. Hello           https://beta.sayhello.so/
 64. Neera           https://neera.ai/
 65. BlockScan       https://blockscan.com/
-66. 
+66. UnityList       https://unitylist.com/
+67. Learn Anything  https://learn-anything.xyz/
+68. Old'aVista      http://www.oldavista.com/
+69. 
 
 

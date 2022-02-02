@@ -69,7 +69,7 @@ All these search engines will be reviewed and tested in the future :)
 62. Infospace       https://infospace.com/
 63. Hello           https://beta.sayhello.so/
 64. Neera           https://neera.ai/
-65.
+65. BlockScan       https://blockscan.com/
 66. 
 
 

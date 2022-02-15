@@ -73,6 +73,7 @@ All these search engines will be reviewed and tested in the future :)
 66. UnityList       https://unitylist.com/
 67. Learn Anything  https://learn-anything.xyz/
 68. Old'aVista      http://www.oldavista.com/
-69. 
+69. Lazyweb         https://lazyweb.ai/
+70. AndiSearch      https://andisearch.com/
 
 

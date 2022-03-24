@@ -75,5 +75,6 @@ All these search engines will be reviewed and tested in the future :)
 68. Old'aVista      http://www.oldavista.com/
 69. Lazyweb         https://lazyweb.ai/
 70. AndiSearch      https://andisearch.com/
+71. IndieWebSearch  https://indieweb-search.jamesg.blog/
 
 

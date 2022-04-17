@@ -76,5 +76,7 @@ All these search engines will be reviewed and tested in the future :)
 69. Lazyweb         https://lazyweb.ai/
 70. AndiSearch      https://andisearch.com/
 71. IndieWebSearch  https://indieweb-search.jamesg.blog/
+72. Redditle        https://redditle.com
+73. Blogsurf        https://blogsurf.io      
 
 

@@ -77,6 +77,10 @@ All these search engines will be reviewed and tested in the future :)
 70. AndiSearch      https://andisearch.com/
 71. IndieWebSearch  https://indieweb-search.jamesg.blog/
 72. Redditle        https://redditle.com
-73. Blogsurf        https://blogsurf.io      
-
-
+73. Blogsurf        https://blogsurf.io   
+74. You Search      https://you.com/
+75. Yahoo           https://yahoo.com/
+76. DuckDuckGo      https://duckduckgo.com/
+77. Startpage       https://startpage.com/
+78. Ecosia          https://ecosia.org/
+79. Sogou           https://sogou.com/

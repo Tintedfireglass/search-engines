@@ -84,3 +84,7 @@ All these search engines will be reviewed and tested in the future :)
 77. Startpage       https://startpage.com/
 78. Ecosia          https://ecosia.org/
 79. Sogou           https://sogou.com/
+80. SearchMySite    https://searchmysite.net/
+81. Yep Search      https://yep.com/
+82. MillionShort    https://millionshort.com/
+83. Searx

@@ -87,4 +87,12 @@ All these search engines will be reviewed and tested in the future :)
 80. SearchMySite    https://searchmysite.net/
 81. Yep Search      https://yep.com/
 82. MillionShort    https://millionshort.com/
-83. Searx
+83. Searx           (Self-Hosted)
+84. Gnomit          https://www.gnomit.com/
+85. Sengine         https://www.sengine.info/
+86. Crawlson        https://www.crawlson.com/
+87. ArtadoSearch    https://www.artadosearch.com/
+88. Tuxdex          https://tuxdex.com/
+89. Alexandria      https://www.alexandria.org/
+90. Meorca          https://www.meorca.com/search/
+91. 

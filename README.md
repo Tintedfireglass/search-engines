@@ -68,7 +68,7 @@ All these search engines will be reviewed and tested in the future :)
 61. Oscobo          https://oscobo.com/
 62. Infospace       https://infospace.com/
 63. Hello           https://beta.sayhello.so/
-64. Neera           https://neera.ai/
+64. Felvin          https://felv.in/
 65. BlockScan       https://blockscan.com/
 66. UnityList       https://unitylist.com/
 67. Learn Anything  https://learn-anything.xyz/

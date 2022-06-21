@@ -95,4 +95,4 @@ All these search engines will be reviewed and tested in the future :)
 88. Tuxdex          https://tuxdex.com/
 89. Alexandria      https://www.alexandria.org/
 90. Meorca          https://www.meorca.com/search/
-91. 
+91. FindX           https://www.findx.com/

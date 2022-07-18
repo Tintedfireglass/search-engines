@@ -96,3 +96,8 @@ All these search engines will be reviewed and tested in the future :)
 89. Alexandria      https://www.alexandria.org/
 90. Meorca          https://www.meorca.com/search/
 91. FindX           https://www.findx.com/
+92. Naver           https://www.naver.com/
+93. Seznam          https://napoveda.seznam.cz/en/seznamcz-web-search/
+94. Wiki Search     http://www.wiki.com/
+95. GoodSearch      https://www.goodshop.com/search
+

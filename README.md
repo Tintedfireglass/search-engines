@@ -101,6 +101,7 @@ All these search engines will be reviewed and tested in the future :)
 94. Wiki Search     http://www.wiki.com/
 95. GoodSearch      https://www.goodshop.com/search
 96. SearchEncrypt   https://www.searchencrypt.com/home
-97. ENtireWeb       https://www.entireweb.com/
+97. EntireWeb       https://www.entireweb.com/
+98. Whoogle         (SelfHosted)
 
 

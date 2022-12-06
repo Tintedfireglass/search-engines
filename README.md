@@ -36,7 +36,7 @@ All these search engines will be reviewed and tested in the future :)
 29. FilePursuit     https://filepursuit.com/
 30. Metager         https://metager.org/
 31. Teclis          http://teclis.com/
-32. Pirate Bay      http://thepiratebay.org/
+32. Secret Search   http://www.secretsearchenginelabs.com/
 33. Neeva           https://neeva.com/
 34. ClassCentral    https://www.classcentral.com/
 35. RSSsearchhub    https://www.rsssearchhub.com/
@@ -104,4 +104,6 @@ All these search engines will be reviewed and tested in the future :)
 97. EntireWeb       https://www.entireweb.com/
 98. Whoogle         (SelfHosted)
 99. Gnod            https://www.gnod.com/search/
+100.Bloopish        https://search.aibull.io/
+
 
